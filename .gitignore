@@ -1,0 +1,13 @@
+# Android/Gradle build outputs
+**/build/
+**/.gradle/
+
+# Cache files/folders
+**/cache/
+**/caches/
+.idea/caches/
+
+# Local machine/IDE files
+.idea/workspace.xml
+.idea/tasks.xml
+local.properties
